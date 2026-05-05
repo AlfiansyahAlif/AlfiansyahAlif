@@ -23,6 +23,6 @@ Developed user guides across multiple domains from complex ERP modules and logis
 - **[Release Notes: Fintech Project]**
 Documented product updates and feature releases in a fintech environment — concise, structured, and developer-friendly.
 
-### 📫 Mari Terhubung
+### 📫 Reach Me At:
 - 📧 Email: [alifrachman70@gmail.com]
 - 🔗 LinkedIn: [linkedin.com/in/alifalrachman]
