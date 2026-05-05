@@ -7,7 +7,7 @@ I help teams turn complex ideas into clear, easy-to-understand content. Whether 
 **Less clutter, more clarity - that's how I work.**
 
 ### 🚀 What i do:
-- **System Documentation:** I break down complex system workflows from navigating the deeply interconnected modules of an ERP system to untangling logistics workflows in logistic management system, when it comes to an HR Management System, I know that accuracy and consistency aren't optional - every detail matters.
+- **System Documentation:** I break down complex system workflows from navigating the deeply interconnected modules of an ERP system to untangling logistics workflows in logistic management system, and when it comes to an HR Management System, I know that accuracy and consistency aren't optional - every detail matters.
 - **UI/UX Writing:** I also care about the details that shape user experience: writing effective callout annotations that guide users naturally, and organizing UI elements like search layouts to feel intuitive from the first glance.
 - **Docs-as-Code:** And when it comes to workflow, I practice docs-as-code, writing in Markdown and managing documentation through Git/GitHub, because good docs deserve a solid process behind them.
 
